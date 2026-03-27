@@ -1,7 +1,5 @@
 *.pyc
 __pycache__/
-*.pkl
 Data/
 .ipynb_checkpoints/
-models/
 *.db
